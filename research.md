@@ -8,7 +8,7 @@ title: Research
 
 ### Selected publications
 
-
+- Purse, R., Tamminga, M. & White, Y. (to appear) Phonological Variation and Lexical Form. In A. Papafragou, J. Trueswell & L. Gleitman (Eds.) *Oxford Handbook of the Mental Lexicon.* Oxford, United Kingdom: Oxford University Press.
 - Wade, L., Lai, W. & Tamminga, M. 2020. [The reliability of individual differences in VOT imitation.](https://1ca090aa-13da-4a34-919a-f5f66777e5a3.filesusr.com/ugd/afb247_c15b480d6c4b4751826c18e4e458dc5e.pdf) *Language and Speech.* 
  - Tamminga, M., Wilder, R., Lai, W. & Wade, L. 2020. [Perceptual learning, talker specificity, and sound change.](http://journals.ed.ac.uk/pihph/article/view/4439/6033) *Papers in Historical Phonology* 4(90).
 - Purse, R. 2020. The envelope of variation for /l/ Vocalisation in Philadelphia English. *PWPL* 25(2).
@@ -27,7 +27,7 @@ title: Research
 
 
 ### Recent talks
-
+-White, Yosiane. 2021. Affix priming using non-canonical variants: Exploring the mental representation of ING. LSA annual meeting, virtual.
 - Li, A. & Tamminga, M. 2020. Priming and "anti-priming" in intra- and inter-speaker variation. 33rd Annual CUNY Conference on Human Sentence Processing, Amherst, MA.
 - Wade, L. 2020. Speakers converge toward variants they haven’t heard: The case of Southern monophthongal /ay/. LSA annual meeting, New Orleans, LA.
 - Lai, W. & Tamminga, M. 2019. Individual differences in simultaneous compensation for coarticulatory and lexical cues. WSC5, UC Davis, CA. 
@@ -49,6 +49,7 @@ title: Research
 
 ### External and intramural funding
 
+- White, Y. 2021. *Exploring the Mental Representation of Variable ING.* Small Grant Award, Penn Integrated Language Sciences and Technology Initiative.
 - Lai, W. 2019. *Tracking idiosyncratic speech traits across speakers and genders.* Small Grant Award, Penn Integrated Language Sciences and Technology Initiative.
 - Tamminga, M. (PI) & Wade, L. (co-PI). 2019. *Linguistic accommodation to Southern speech.* NSF Doctoral Dissertation Research Improvement Grant (BCS-1917900).  
 - White, Y. 2019. *Investigating the mental representation of morphophonological variation.* Small Grant Award, Penn Integrated Language Sciences and Technology Initiative.
