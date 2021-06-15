@@ -27,7 +27,7 @@ title: Research
 
 
 ### Recent talks
-- White, Yosiane. 2021. Affix priming using non-canonical variants: Exploring the mental representation of ING. LSA annual meeting, virtual.
+- White, Y. 2021. Affix priming using non-canonical variants: Exploring the mental representation of ING. LSA annual meeting, virtual.
 - Li, A. & Tamminga, M. 2020. Priming and "anti-priming" in intra- and inter-speaker variation. 33rd Annual CUNY Conference on Human Sentence Processing, Amherst, MA.
 - Wade, L. 2020. Speakers converge toward variants they haven’t heard: The case of Southern monophthongal /ay/. LSA annual meeting, New Orleans, LA.
 - Lai, W. & Tamminga, M. 2019. Individual differences in simultaneous compensation for coarticulatory and lexical cues. WSC5, UC Davis, CA. 
