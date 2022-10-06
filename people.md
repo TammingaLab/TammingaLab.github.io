@@ -25,7 +25,7 @@ published: true
 <br style="clear:both" />
 
 <img src="/images/aini.jpg" alt="Headshot of an Asian woman with chin length black hair and bangs, wearing a yellow sweater and blue scarf." style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
-[**Aini Li**](https://www.ling.upenn.edu/~liaini) is a 4th year Ph.D. student in Linguistics. Her research interests include language change and variation as well as mental representation/processing of language variability, with a particular interest in the production and perception of morphosyntactic variables.
+[**Aini Li**](https://www.ling.upenn.edu/~liaini) is a 4th year Ph.D. student in Linguistics. Her research interests are at the interface of sociolinguistics and psycholinguistics. In particular, she is using experimental methods to probe the influence of grammatical, social and cognitive factors on the perception and production of variation.
 
 <br style="clear:both" />
 
