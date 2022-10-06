@@ -8,12 +8,12 @@ title: Research
 
 ### Selected publications
 
-- Li. 2022. Regional dialect leveling in Mandarin Chinese: the case of locative variation in the Chengdu dialect. *Asia-Pacific Language Variation*, 8(1), 32-71. 
-- Purse, Fruehwald & Tamminga. 2022. Frequency and morphological complexity in variation. *Glossa: A journal of general linguistics* 7(1): 1–34.
+- Li. 2022. [Regional dialect leveling in Mandarin Chinese: the case of locative variation in the Chengdu dialect](https://www.jbe-platform.com/content/journals/10.1075/aplv.20004.li). *Asia-Pacific Language Variation*, 8(1), 32-71. 
+- Purse, Fruehwald & Tamminga. 2022. [Frequency and morphological complexity in variation](https://www.glossa-journal.org/article/id/5839/). *Glossa: A journal of general linguistics* 7(1): 1–34.
 - Purse, Tamminga & White. 2022. Phonological variation and lexical form. In Papafragou, Trueswell & Gleitman (eds.) *The Oxford Handbook of the Mental Lexicon* 33-52. Oxford: Oxford University Press.
-- Lai, Wade & Tamminga. 2022. Individual differences in simultaneous perceptual compensation for coarticulatory and lexical cues. *Linguistics Vanguard* (aop).
+- Lai, Wade & Tamminga. 2022. [Individual differences in simultaneous perceptual compensation for coarticulatory and lexical cues](https://www.degruyter.com/document/doi/10.1515/lingvan-2020-0040/html). *Linguistics Vanguard* (aop).
 - Tamminga & Wade. 2022. Coherence across social and temporal scales. In Beaman and Guy (eds.), *The Coherence of Linguistic Communities: Orderly Heterogeneity and Social Meaning* 34–52. Routledge.
-- Wade. 2022. Experimental evidence for expectation-driven linguistic convergence. *Language* 98(1).
+- Wade. 2022. [Experimental evidence for expectation-driven linguistic convergence](https://muse.jhu.edu/article/849527). *Language* 98(1).
 - Tamminga. 2021. Social meaning and the temporal dynamics of sound changes. In Hall-Lew, Moore & Podesva (eds.), *Social Meaning and Linguistic Variation: Theorizing the Third Wave* 338–362. Cambridge: Cambridge University Press.
 - Tamminga. 2021. Leaders of language change: Macro and micro perspectives. In Van de Velde, Hilton & Knooihuizen (eds.), *Language Variation – European Perspectives VIII: Selected Papers from the Tenth International Conference on Language Variation in Europe (ICLaVE 10)* 270–289. Amsterdam: John Benjamins Publishing Company.    
 - Wade, Lai & Tamminga. 2021. [The reliability of individual differences in VOT imitation.](https://1ca090aa-13da-4a34-919a-f5f66777e5a3.filesusr.com/ugd/afb247_c15b480d6c4b4751826c18e4e458dc5e.pdf) *Language and Speech* 64(3):576–593. 
