@@ -3,7 +3,7 @@ layout: default
 title: Home
 published: true
 ---
-
+<img src="/images/lab_group.jpeg" style="width: 800px; float: none; margin: 0px 15px 15px 0px;" />
 
 Welcome to the website for the Language Variation and Cognition Lab! We are located in the [Department of Linguistics](https://www.ling.upenn.edu/) at the [University of Pennsylvania](https://www.upenn.edu/). The lab is directed by [Meredith Tamminga](http://meredithtamminga.com/). We work closely with [David Embick](https://www.ling.upenn.edu/~embick/) and [his lab](http://web.sas.upenn.edu/embick-lab/).
 
