@@ -5,7 +5,7 @@ published: true
 ---
 <img src="/images/lab_group.jpeg" alt="Six happy linguists from the lab stand together in front of the Philadelphia skyline." style="width: 800px; float: none; margin: 0px 15px 15px 0px;" />
 
-Welcome to the website for the Language Variation and Cognition Lab! We are located in the [Department of Linguistics](https://www.ling.upenn.edu/) at the [University of Pennsylvania](https://www.upenn.edu/). The lab is directed by [Meredith Tamminga](http://meredithtamminga.com/). We work closely with [David Embick](https://www.ling.upenn.edu/~embick/) and [his lab](http://web.sas.upenn.edu/embick-lab/).
+Welcome to the website for the Language Variation and Cognition Lab! We are located in the [Department of Linguistics](https://www.ling.upenn.edu/) at the [University of Pennsylvania](https://www.upenn.edu/). The lab is directed by [Meredith Tamminga](http://meredithtamminga.com/). We also work closely with [David Embick](https://www.ling.upenn.edu/~embick/) and [his lab](http://web.sas.upenn.edu/embick-lab/).
 
 We are affiliated with [MindCORE](https://mindcore.sas.upenn.edu/), Penn's hub for the integrative study of the mind, as well as several of its supported research groups: 
 * The [Integrated Language Sciences and Technology Initiative](http://web.sas.upenn.edu/langscience/)
@@ -19,7 +19,7 @@ Our research is situated at the intersection of sociolinguistics and psycholingu
 * Relating individual and group-level linguistic behavior and phenomena, especially with respect to language change
 * Developing quantitative approaches to the microtemporal dynamics of language variation in perception and production
 
-For selected papers and presentations, see the [Research](https://tammingalab.github.io/research/) page.
+For selected papers and grants, see the [Research](https://tammingalab.github.io/research/) page.
 
 Inquiries from both prospective undergraduate RAs and prospective Ph.D. students should be directed to Meredith Tamminga. 
 
