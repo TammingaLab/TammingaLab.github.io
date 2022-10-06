@@ -26,7 +26,7 @@ title: Research
 - Tamminga. 2019. [Sources of microtemporal clustering in sociolinguistic sequences.](https://www.frontiersin.org/articles/10.3389/frai.2019.00010/full) *Frontiers in Artificial Intelligence: Language and Computation* 2:10.
 - Tamminga. 2018. [Modulation of the following segment effect on English coronal stop deletion by syntactic boundaries.](https://www.glossa-journal.org/articles/10.5334/gjgl.489/) *Glossa: A journal of general linguistics* 3(1):86.
 - Tamminga. 2017. [Matched guise effects can be robust to speech style.](https://asa.scitation.org/doi/full/10.1121/1.4990399) *Journal of the Acoustical Society of America* 142, EL18-23.
-- Tamminga,MacKenzie & Embick. 2016. [The dynamics of variation in individuals.](https://www.jbe-platform.com/content/journals/10.1075/lv.16.2.06tam) *Linguistic Variation* 16(2):151–187.
+- Tamminga, MacKenzie & Embick. 2016. [The dynamics of variation in individuals.](https://www.jbe-platform.com/content/journals/10.1075/lv.16.2.06tam) *Linguistic Variation* 16(2):151–187.
 - Tamminga. 2016. [Persistence in phonological and morphological variation.](https://www.cambridge.org/core/journals/language-variation-and-change/article/persistence-in-phonological-and-morphological-variation/555BB46FF7E1D0FB6EA3A94CE0B96351) *Language Variation and Change* 28:335-356.
 - Tamminga, Ahern & Ecay. 2016. [Generalized Additive Mixed Models for intraspeaker variation.](https://www.degruyter.com/view/j/lingvan.2016.2.issue-s1/lingvan-2016-0030/lingvan-2016-0030.xml) *Linguistics Vanguard* 2(s1):33-41.
 
