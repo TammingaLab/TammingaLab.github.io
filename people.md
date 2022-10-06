@@ -9,22 +9,22 @@ published: true
 ### Current lab members
 
   
-<img src="/images/meredith_lab.jpg" style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
+<img src="/images/meredith_lab.jpg" alt="Headshot of a white woman with wavy light brown hair, wearing an olive blouse." style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
 [**Meredith Tamminga**](http://www.meredithtamminga.com) is the lab director and an Associate Professor of Linguistics at Penn. She received her Ph.D. from Penn in 2014.
 
 <br style="clear:both" />
 
-<img src="/images/lacey.jpg" style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
+<img src="/images/lacey.jpg" alt="Headshot of a white woman with long curly dark hair and glasses, wearing a gray top." style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
 [**Lacey Wade**](https://www.laceywade.com/) is a lecturer at Penn, currently teaching courses in both sociolinguistics and general linguistics. She received her Ph.D. from Penn in 2020. Her research is focused on understanding how sociolinguistic knowledge is mentally represented and utilized in speech perception and production.
 
 <br style="clear:both" />
 
-<img src="/images/cesko.jpeg" style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
+<img src="/images/cesko.jpeg" alt="Headshot of a white man with short curly brown hair and glasses, wearing a blue sweater and maroon scarf." style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
 [**Cesko Voeten**](https://www.fryske-akademy.nl/en/about-us/employees/0/news/detail/cvoeten/) is a postdoc in linguistics working with Meredith Tamminga and Joshua Plotkin (Biology & Mathematics). His research is concerned with the relationship between synchronic variation and diachronic change in vowel systems, and with statistical methods that enable this relationship to be quantified. In his current project, he uses a statistical model from biological evolution to investigate the population-level processes underlying vowel changes in Philadelphia.
 
 <br style="clear:both" />
 
-<img src="/images/aini.jpg" style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
+<img src="/images/aini.jpg" alt="Headshot of an Asian woman with chin length black hair and bangs, wearing a yellow sweater and blue scarf." style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
 [**Aini Li**](https://www.ling.upenn.edu/~liaini) is a 4th year Ph.D. student in Linguistics. Her research interests include language change and variation as well as mental representation/processing of language variability, with a particular interest in the production and perception of morphosyntactic variables.
 
 <br style="clear:both" />
