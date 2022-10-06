@@ -19,7 +19,7 @@ published: true
 
 <br style="clear:both" />
 
-<img src="/images/cesko.jpg" style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
+<img src="/images/cesko.jpeg" style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
 [**Cesko Voeten**](https://www.fryske-akademy.nl/en/about-us/employees/0/news/detail/cvoeten/) is a postdoc in linguistics working with Meredith Tamminga and Joshua Plotkin (Biology & Mathematics). His research is concerned with the relationship between synchronic variation and diachronic change in vowel systems, and with statistical methods that enable this relationship to be quantified. In his current project, he uses a statistical model from biological evolution to investigate the population-level processes underlying vowel changes in Philadelphia.
 
 <br style="clear:both" />
