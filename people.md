@@ -10,7 +10,7 @@ published: true
 
   
 <img src="/images/meredith_lab.jpg" alt="Headshot of a white woman with wavy light brown hair, wearing an olive blouse." style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
-[**Meredith Tamminga**](http://www.meredithtamminga.com) is the lab director and an Associate Professor of Linguistics at Penn. She received her Ph.D. from Penn in 2014.
+[**Meredith Tamminga**](http://www.meredithtamminga.com) is the lab director and an Associate Professor of Linguistics at Penn. She is also the Graduate Chair for Linguistics, an Associate Editor at *Language*, and the Associate Director of Outreach at MindCORE. She received her Ph.D. from Penn in 2014.
 
 <br style="clear:both" />
 
