@@ -29,6 +29,12 @@ published: true
 
 <br style="clear:both" />
 
+<img src="/images/gwen.jpeg" alt="Headshot of a white woman with long curly red hair, wearing a cream turtleneck." style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
+[**Gwen Hildebrandt**]([https://www.ling.upenn.edu/~liaini](https://www.penngwen.net/)) is a 4th year Ph.D. student in Linguistics (advisor: Charles Yang). She is broadly interested in syntax, acquisition, semantics, and psycholinguistics. Her second qualifying paper began an investigation into the acquisition and social meaning of Korean honorifics.
+
+<br style="clear:both" />
+
+
 <img src="/images/may.jpeg" alt="Headshot of an Asian woman with long dark hair wearing a white button-up and black jacket." style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
 [**May Chan**]([https://www.ling.upenn.edu/~liaini](https://www.ling.upenn.edu/~pikyu/)) is a 3rd year Ph.D. student in Linguistics (advisor: Jianjing Kuang). Broadly speaking, she is interested in speech production in World Englishes. Lately, she has been working on systematic biases in English-ASR systems modulated by speakers' language backgrounds. She has also been working on how sociolinguistic factors condition pitch use in speech production in conversational data.
 
