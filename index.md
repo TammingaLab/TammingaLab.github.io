@@ -4,7 +4,7 @@ title: Home
 published: true
 ---
 <p align="center">
-  <img src="/images/lab_group.jpeg" alt="Six happy linguists from the lab stand together in front of the Philadelphia skyline. There are two Asian women, three white women, and one white man, arm in arm." style="width: 800px; float: none; margin: 0px 15px 15px 15px;" />
+  <img src="/images/lab_group.jpeg" alt="Six happy linguists from the lab stand together in front of the Philadelphia skyline. There are two Asian women, three white women, and one white man, arm in arm." style="width: 800px; float: none; margin: 0px 0px 15px 10px;" />
  </p>
 
 Welcome to the Language Variation and Cognition Lab! We are located in the [Department of Linguistics](https://www.ling.upenn.edu/) at the [University of Pennsylvania](https://www.upenn.edu/). The lab is directed by [Meredith Tamminga](http://meredithtamminga.com/). 
