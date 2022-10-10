@@ -20,7 +20,7 @@ published: true
 <br style="clear:both" />
 
 <img src="/images/andrea.jpeg" alt="Headshot of a white man with short dark hair and glasses, wearing a blue tshirt." style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
-[**Andrea Beltrama**](https://andreabeltrama.com) is a lecturer and postdoc. He is interested in understanding how interlocutors signal and interpret meanings across different dimensions, focusing on two main themes: the formal and socio-cognitive processes whereby humans compute the message conveyed by linguistic utterances; and how these processes inform the activities that humans engage in when communicating — e.g., exchanging information; projecting/perceiving social identity; and expressing agreement or disagreement. To this end, he adopts a cross-disciplinary perspective, combining theories and methods from semantics/pragmatics, sociolinguistics and psycholinguistics, and focusing on different phenomena such as (im)precision; gradability; subjective and emotive language; and human-AI interaction.
+[**Andrea Beltrama**](https://andreabeltrama.com) is a lecturer and postdoc. He is interested in understanding how interlocutors assemble, signal and interpret meanings across the semantic, pragmatic and social dimensions of communication. He investigates this question through the lenses of different phenomena such as (im)precision; gradability and scalarity; subjective and emotive language; and human-AI interaction.
 
 <br style="clear:both" />
 
