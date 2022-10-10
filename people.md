@@ -10,19 +10,30 @@ published: true
 
   
 <img src="/images/meredith_lab.jpg" alt="Headshot of a white woman with wavy light brown hair, wearing an olive blouse." style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
-[**Meredith Tamminga**](http://www.meredithtamminga.com) is the lab director and an Associate Professor of Linguistics at Penn. She is also the Graduate Chair for Linguistics, an Associate Editor at *Language*, and the Associate Director of Outreach at MindCORE. She received her Ph.D. from Penn in 2014.
+[**Meredith Tamminga**](http://www.meredithtamminga.com) is the lab director and an Associate Professor of Linguistics at Penn. She is also the Graduate Chair for Linguistics, an Associate Editor at *Language*, and the Associate Director of Outreach at MindCORE. 
 
 <br style="clear:both" />
 
 <img src="/images/lacey.jpg" alt="Headshot of a white woman with long curly dark hair and glasses, wearing a gray top." style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
-[**Lacey Wade**](https://www.laceywade.com/) is a lecturer at Penn, currently teaching courses in both sociolinguistics and general linguistics. She received her Ph.D. from Penn in 2020. Her research is focused on understanding how sociolinguistic knowledge is mentally represented and utilized in speech perception and production.
+[**Lacey Wade**](https://www.laceywade.com/) is a lecturer currently teaching courses in both sociolinguistics and general linguistics. Her research is focused on understanding how sociolinguistic knowledge is mentally represented and utilized in speech perception and production.
+
+<br style="clear:both" />
+
+<img src="/images/andrea.jpeg" alt="Headshot of a white man with short dark hair and glasses, wearing a blue tshirt." style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
+[**Andrea Beltrama**](https://andreabeltrama.com) is a lecturer and postdoc. He is interested in understanding of how interlocutors signal and interpret meanings across different dimensions, focusing on two main themes: the formal and socio-cognitive processes whereby humans compute the message conveyed by linguistic utterances; and how these processes inform the activities that humans engage in when communicating — e.g., exchanging information; projecting/perceiving social identity; and expressing agreement or disagreement. To this end, he adopts a cross-disciplinary perspective, combining theories and methods from semantics/pragmatics, sociolinguistics and psycholinguistics, and focusing on different phenomena such as (im)precision; gradability; subjective and emotive language; and human-AI interaction.
 
 <br style="clear:both" />
 
 <img src="/images/cesko.jpeg" alt="Headshot of a white man with short curly brown hair and glasses, wearing a blue sweater and maroon scarf." style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
-[**Cesko Voeten**](https://www.fryske-akademy.nl/en/about-us/employees/0/news/detail/cvoeten/) is a postdoc in linguistics working with Meredith Tamminga and Joshua Plotkin (Biology & Mathematics). He received his Ph.D. from Leiden University in 2020. His research is concerned with the relationship between synchronic variation and diachronic change in vowel systems, and with statistical methods that enable this relationship to be quantified. In his current project, he uses a statistical model from biological evolution to investigate the population-level processes underlying vowel changes in Philadelphia.
+[**Cesko Voeten**](https://www.fryske-akademy.nl/en/about-us/employees/0/news/detail/cvoeten/) is a postdoc in linguistics working with Meredith Tamminga and Joshua Plotkin (Biology & Mathematics). His research is concerned with the relationship between synchronic variation and diachronic change in vowel systems, and with statistical methods that enable this relationship to be quantified. In his current project, he uses a statistical model from biological evolution to investigate the population-level processes underlying vowel changes in Philadelphia.
 
 <br style="clear:both" />
+
+<img src="/images/yiran.jpg" alt="Headshot of an Asian woman with a long ponytail wearing a light blue blouse." style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
+[**Yiran Chen**](https://sites.google.com/sas.upenn.edu/yiranchen/home) is a 5th year Ph.D. student in Linguistics (advisor: Katie Schuler). She is interested in language acquisition as well as the language-cognition interface. More specifically, she is interested in questions like how acquisition of sociolinguistic variation informs cognitive and social development as well as how language interacts with non-linguistic representation of events. Outside of research, Yiran enjoys making music and food.
+
+<br style="clear:both" />
+
 
 <img src="/images/aini.jpg" alt="Headshot of an Asian woman with chin length black hair and bangs, wearing a yellow sweater and blue scarf." style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
 [**Aini Li**](https://www.ling.upenn.edu/~liaini) is a 4th year Ph.D. student in Linguistics (advisor: Meredith Tamminga). Her research interests are at the interface of sociolinguistics and psycholinguistics. In particular, she is using experimental methods to probe the influence of grammatical, social and cognitive factors on the perception and production of variation.
