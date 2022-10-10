@@ -29,7 +29,7 @@ published: true
 
 <br style="clear:both" />
 
-<img src="/images/yiran.jpg" alt="Headshot of an Asian woman with a long ponytail wearing a light blue blouse." style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
+<img src="/images/yiran.jpeg" alt="Headshot of an Asian woman with a long ponytail wearing a light blue blouse." style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
 [**Yiran Chen**](https://sites.google.com/sas.upenn.edu/yiranchen/home) is a 5th year Ph.D. student in Linguistics (advisor: Katie Schuler). She is interested in language acquisition as well as the language-cognition interface. More specifically, she is interested in questions like how acquisition of sociolinguistic variation informs cognitive and social development as well as how language interacts with non-linguistic representation of events. Outside of research, Yiran enjoys making music and food.
 
 <br style="clear:both" />
