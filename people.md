@@ -34,6 +34,10 @@ published: true
 
 <br style="clear:both" />
 
+<img src="/images/lefteris.jpg" alt="Headshot of a white man with a long brown ponytail, wearing glasses and a black turtleneck." style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
+[**Lefteris Paparounas**](https://paparounas.net) is a 5th year Ph.D. student in Linguistics (advisor: Dave Embick). His main focus is on theoretical syntax and morphology. He is interested in integrating theoretical insights in these areas with experimental perspectives, particularly in morphological processing and lexical access as probed through the lens of priming.
+
+<br style="clear:both" />
 
 <img src="/images/aini.jpg" alt="Headshot of an Asian woman with chin length black hair and bangs, wearing a yellow sweater and blue scarf." style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
 [**Aini Li**](https://www.ling.upenn.edu/~liaini) is a 4th year Ph.D. student in Linguistics (advisor: Meredith Tamminga). Her research interests are at the interface of sociolinguistics and psycholinguistics. In particular, she is using experimental methods to probe the influence of grammatical, social and cognitive factors on the perception and production of variation.
