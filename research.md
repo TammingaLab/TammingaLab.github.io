@@ -8,6 +8,8 @@ title: Research
 
 ### Selected publications
 
+- Wade, Embick & Tamminga. Forthcoming. Dialect experience modulates cue reliance in sociolinguistic convergence. *Glossa Psycholinguistics*.
+- Li, Tamminga & Hu. 2023. [Intra- and inter-speaker repetitiveness in Chengdu Mandarin locative variation](https://www.cambridge.org/core/journals/language-variation-and-change/article/intra-and-interspeaker-repetitiveness-in-chengdu-mandarin-locative-variation/E85D1374E5CD166F2098C43441BA5B8F). *Language Variation and Change*, online first view.
 - Li. 2022. [Regional dialect leveling in Mandarin Chinese: the case of locative variation in the Chengdu dialect](https://www.jbe-platform.com/content/journals/10.1075/aplv.20004.li). *Asia-Pacific Language Variation*, 8(1), 32-71. 
 - Purse, Fruehwald & Tamminga. 2022. [Frequency and morphological complexity in variation](https://www.glossa-journal.org/article/id/5839/). *Glossa: A journal of general linguistics* 7(1): 1–34.
 - Purse, Tamminga & White. 2022. Phonological variation and lexical form. In Papafragou, Trueswell & Gleitman (eds.) *The Oxford Handbook of the Mental Lexicon* 33-52. Oxford: Oxford University Press.
