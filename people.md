@@ -63,6 +63,8 @@ published: true
 <img src="/images/sophie.jpeg" alt="Headshot of a white woman with wavy dark hair, a nose ring, and a necklace. Her hand is under her chin and she is in a restaurant." style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
 **Sophie Faircloth** is a Bachelors and Masters student in Linguistics (advisor: Meredith Tamminga). Her research interests are at the intersection of sociolinguistics and pragmatics. She is particularly interested in exploring how persona information and regional dialect variation impact the social evaluation of speakers engaging in pragmatic behavior such as sarcasm usage and underinformativeness.
 
+<br style="clear:both" />
+
 ### Old friends
 
 - [**Lacey Wade**](https://laceywade.github.io/) completed her Ph.D. in 2020 and was a postdoc in the lab from 2020-2022. She is now an Assistant Professor of Linguistics at the University of Kansas.
