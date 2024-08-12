@@ -10,7 +10,7 @@ published: true
 
   
 <img src="/images/meredith_lab.jpg" alt="Headshot of a white woman with wavy light brown hair, wearing an olive blouse." style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
-[**Meredith Tamminga**](http://www.meredithtamminga.com) is the lab director and an Associate Professor of Linguistics at Penn. She is also the Graduate Chair for Linguistics, an Associate Editor at *Language*, and a 2023-24 Penn Fellow. 
+[**Meredith Tamminga**](http://www.meredithtamminga.com) is the lab director and an Associate Professor of Linguistics at Penn. She is also the Graduate Chair for Linguistics and an Associate Editor at *Glossa Psycholinguistics*. 
 
 <br style="clear:both" />
 
@@ -24,49 +24,43 @@ published: true
 
 <br style="clear:both" />
 
-<img src="/images/lefteris.jpeg" alt="Headshot of a white man with a long brown ponytail, wearing glasses and a black turtleneck." style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
-[**Lefteris Paparounas**](https://paparounas.net) is a 5th year Ph.D. student in Linguistics (advisor: Dave Embick). His main focus is on theoretical syntax and morphology. He is interested in integrating theoretical insights in these areas with experimental perspectives, particularly in morphological processing and lexical access as probed through the lens of priming.
-
-<br style="clear:both" />
-
-<img src="/images/aini.jpg" alt="Headshot of an Asian woman with chin length black hair and bangs, wearing a yellow sweater and blue scarf." style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
-[**Aini Li**](https://ainili-linguist.github.io/) is a 4th year Ph.D. student in Linguistics (advisor: Meredith Tamminga). Her research interests are at the interface of sociolinguistics and psycholinguistics. In particular, she is using experimental methods to probe the influence of grammatical, social and cognitive factors on the perception and production of variation.
-
-<br style="clear:both" />
-
-<img src="/images/gwen.jpeg" alt="Headshot of a white woman with long curly red hair, wearing a cream turtleneck." style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
-[**Gwen Hildebrandt**](https://www.penngwen.net/) is a 4th year Ph.D. student in Linguistics (advisor: Charles Yang). She is broadly interested in syntax, acquisition, semantics, and psycholinguistics. Her second qualifying paper began an investigation into the acquisition and social meaning of Korean honorifics.
-
-<br style="clear:both" />
-
-
 <img src="/images/may.jpeg" alt="Headshot of an Asian woman with long dark hair wearing a white button-up and black jacket." style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
-[**May Chan**](https://www.ling.upenn.edu/~pikyu/) is a 3rd year Ph.D. student in Linguistics (advisor: Jianjing Kuang). Broadly speaking, she is interested in speech production in World Englishes. Lately, she has been working on systematic biases in English-ASR systems modulated by speakers' language backgrounds. She has also been working on how sociolinguistic factors condition pitch use in speech production in conversational data.
+[**May Chan**](https://www.ling.upenn.edu/~pikyu/) is a fifth year Ph.D. student in Linguistics (advisor: Jianjing Kuang). Broadly speaking, she is interested in speech production in World Englishes. Lately, she has been working on systematic biases in English-ASR systems modulated by speakers' language backgrounds. She has also been working on how sociolinguistic factors condition pitch use in speech production in conversational data.
 
 <br style="clear:both" />
 
 <img src="/images/xin.jpeg" alt="Headshot of an Asian woman in a white windbreaker holding an apple. Someone is playfully holding up bunny ears behind her head." style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
-**Xin Gao** is a 3rd year Ph.D. student in Linguistics (advisor: Mark Liberman). Her research interests include phonetics and sociolinguistics. She is particularly interested in speech production, speech perception, and voice quality variation.
-
-<br style="clear:both" />
-
-<img src="/images/mikaela.jpg" alt="Headshot of a Black non-binary person with glasses and piercings standing behind a flower." style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
-**Mikaela Martin**  is a first year Ph.D. student in Linguistics (advisor: Meredith Tamminga). Their research interests include sociolinguistics, psycholinguistics, and semantics. Broadly speaking, Mikaela is focused on the psycho-social underpinnings of language, and group membership. 
+**Xin Gao** is a fifth year Ph.D. student in Linguistics (advisor: Mark Liberman). Her research interests include phonetics and sociolinguistics. She is particularly interested in speech production, speech perception, and voice quality variation.
 
 <br style="clear:both" />
 
 <img src="/images/wesley.png" alt="Headshot of a multiracial man with facial hair, a mustache, and glasses, wearing a shirt and tie." style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
-**Wesley Mark Lincoln** is a first-year Ph.D. student in Linguistics (advisor: Gareth Roberts). His interests are centred around sociophonetic variation and change, and the modelling of these phenomena using evolutionary biological theories. He is interested in Romance and Germanic languages and the languages of his native Singapore.
+**Wesley Mark Lincoln** is a second year Ph.D. student in Linguistics (co-advisors: Gareth Roberts and Meredith Tamminga). His interests are centred around sociophonetic variation and change, and the modelling of these phenomena using evolutionary biological theories. He is interested in Romance and Germanic languages and the languages of his native Singapore.
 
 <br style="clear:both" />
 
-<img src="/images/sophie.jpeg" alt="Headshot of a white woman with wavy dark hair, a nose ring, and a necklace. Her hand is under her chin and she is in a restaurant." style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
-**Sophie Faircloth** is a Bachelors and Masters student in Linguistics (advisor: Meredith Tamminga). Her research interests are at the intersection of sociolinguistics and pragmatics. She is particularly interested in exploring how persona information and regional dialect variation impact the social evaluation of speakers engaging in pragmatic behavior such as sarcasm usage and underinformativeness.
+<img src="/images/mikaela.jpg" alt="Headshot of a Black non-binary person with glasses and piercings standing behind a flower." style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
+**Mikaela Martin**  is a second year Ph.D. student in Linguistics (advisor: Meredith Tamminga). Their research interests include sociolinguistics, psycholinguistics, and semantics. Broadly speaking, Mikaela is focused on the psycho-social underpinnings of language, and group membership. 
 
 <br style="clear:both" />
+
+<img src="/images/lexuan.jpg" alt="Headshot of an Asian man with glasses standing outside in a black coat and scarf." style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
+**Le Xuan Chan** is a first year Ph.D. student in Linguistics (advisor: Jianjing Kuang). His research interests are multilingualism, phonetics, and sociolinguistics. He is particularly interested in how the interaction of multiple languages at the individual level contributes to variation in multilingual societies, and exploring these topics through the lens of acoustic and articulatory phonetics.
+
+<br style="clear:both" />
+
+<img src="/images/jahnai.jpg" alt="Headshot of a Black woman with a ponytail wearing a black zip-up." style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
+**Jahnai Garner** is a first year Ph.D. student in Linguistics (advisor: Meredith Tamminga). Jahnai's research interests include psycholinguistics. More specifically, she is interested in how sociolinguistic variation interacts with language processing.
+
+<br style="clear:both" />
+
 
 ### Old friends
 
+- [**Aini Li**](https://ainili-linguist.github.io/) completed her Ph.D. in 2024.
+- [**Gwen Hildebrandt**](https://www.penngwen.net/) completed her Ph.D. in 2024. 
+- **Sophie Faircloth** completed her MA in 2024 and is now a Ph.D. student in Linguistics at the University of Michigan.
+- [**Lefteris Paparounas**](https://paparounas.net) completed his Ph.D. in 2023. He is now an Assistant Professor in Linguistics at UQAM. 
 - [**Lacey Wade**](https://laceywade.github.io/) completed her Ph.D. in 2020 and was a postdoc in the lab from 2020-2022. She is now an Assistant Professor of Linguistics at the University of Kansas.
 - [**Yiran Chen**](https://sites.google.com/sas.upenn.edu/yiranchen/home) completed her Ph.D. in 2023 and is now a post-doctoral fellow in Psychology at the University of Wisconsin - Madison.
 - [**Wei Lai**](https://weilaiphonetics.github.io/home/) completed her Ph.D. in 2021. She is now a Language Engineer at Amazon.
