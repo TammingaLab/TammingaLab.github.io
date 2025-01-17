@@ -15,12 +15,7 @@ published: true
 <br style="clear:both" />
 
 <img src="/images/andrea.jpeg" alt="Headshot of a white man with short dark hair and glasses, wearing a blue tshirt." style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
-[**Andrea Beltrama**](https://andreabeltrama.com) is a lecturer and postdoc. He is interested in understanding how interlocutors assemble, signal and interpret meanings across the semantic, pragmatic and social dimensions of communication. He investigates this question through the lenses of different phenomena such as (im)precision; gradability and scalarity; subjective and emotive language; and human-AI interaction.
-
-<br style="clear:both" />
-
-<img src="/images/cesko.jpeg" alt="Headshot of a white man with short curly brown hair and glasses, wearing a blue sweater and maroon scarf." style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
-[**Cesko Voeten**](https://www.fryske-akademy.nl/en/about-us/employees/0/news/detail/cvoeten/) is a postdoc in linguistics working with Meredith Tamminga and Joshua Plotkin (Biology & Mathematics). His research is concerned with the relationship between synchronic variation and diachronic change in vowel systems, and with statistical methods that enable this relationship to be quantified. In his current project, he uses a statistical model from biological evolution to investigate the population-level processes underlying vowel changes in Philadelphia.
+[**Andrea Beltrama**](https://andreabeltrama.com) is a Visiting Assistant Professor at the University of Delaware who maintains an affiliation with Penn and our lab. He is interested in understanding how interlocutors assemble, signal and interpret meanings across the semantic, pragmatic and social dimensions of communication. He investigates this question through the lenses of different phenomena such as (im)precision; gradability and scalarity; subjective and emotive language; and human-AI interaction.
 
 <br style="clear:both" />
 
@@ -57,7 +52,7 @@ published: true
 
 ### Old friends
 
-- [**Aini Li**](https://ainili-linguist.github.io/) completed her Ph.D. in 2024.
+- [**Aini Li**](https://ainili-linguist.github.io/) completed her Ph.D. in 2024. She is now an Assistant Professor in Linguistics and Translation at City University of Hong Kong.
 - [**Gwen Hildebrandt**](https://www.penngwen.net/) completed her Ph.D. in 2024. 
 - **Sophie Faircloth** completed her MA in 2024 and is now a Ph.D. student in Linguistics at the University of Michigan.
 - [**Lefteris Paparounas**](https://paparounas.net) completed his Ph.D. in 2023. He is now an Assistant Professor in Linguistics at UQAM. 
