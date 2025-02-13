@@ -40,7 +40,7 @@ published: true
 <br style="clear:both" />
 
 <img src="/images/lexuan.jpg" alt="Headshot of an Asian man with glasses standing outside in a black coat and scarf." style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
-**Le Xuan Chan** is a first year Ph.D. student in Linguistics (advisor: Jianjing Kuang). His research interests are multilingualism, phonetics, and sociolinguistics. He is particularly interested in how the interaction of multiple languages at the individual level contributes to variation in multilingual societies, and exploring these topics through the lens of acoustic and articulatory phonetics.
+[**Le Xuan Chan**](https://sites.google.com/view/lexuanchan/) is a first year Ph.D. student in Linguistics (advisor: Jianjing Kuang). His research interests are multilingualism, phonetics, and sociolinguistics. He is particularly interested in how the interaction of multiple languages at the individual level contributes to variation in multilingual societies, and exploring these topics through the lens of acoustic and articulatory phonetics.
 
 <br style="clear:both" />
 
