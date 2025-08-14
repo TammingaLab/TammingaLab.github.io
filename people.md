@@ -20,38 +20,34 @@ published: true
 <br style="clear:both" />
 
 <img src="/images/may.jpeg" alt="Headshot of an Asian woman with long dark hair wearing a white button-up and black jacket." style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
-[**May Chan**](https://www.ling.upenn.edu/~pikyu/) is a fifth year Ph.D. student in Linguistics (advisor: Jianjing Kuang). Broadly speaking, she is interested in speech production in World Englishes. Lately, she has been working on systematic biases in English-ASR systems modulated by speakers' language backgrounds. She has also been working on how sociolinguistic factors condition pitch use in speech production in conversational data.
-
-<br style="clear:both" />
-
-<img src="/images/xin.jpeg" alt="Headshot of an Asian woman in a white windbreaker holding an apple. Someone is playfully holding up bunny ears behind her head." style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
-**Xin Gao** is a fifth year Ph.D. student in Linguistics (advisor: Mark Liberman). Her research interests include phonetics and sociolinguistics. She is particularly interested in speech production, speech perception, and voice quality variation.
+[**May Chan**](https://www.ling.upenn.edu/~pikyu/) is a sixth year Ph.D. student in Linguistics (advisor: Jianjing Kuang). Broadly speaking, she is interested in speech production in World Englishes. Lately, she has been working on systematic biases in English-ASR systems modulated by speakers' language backgrounds. She has also been working on how sociolinguistic factors condition pitch use in speech production in conversational data.
 
 <br style="clear:both" />
 
 <img src="/images/wesley.png" alt="Headshot of a multiracial man with facial hair, a mustache, and glasses, wearing a shirt and tie." style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
-**Wesley Mark Lincoln** is a second year Ph.D. student in Linguistics (co-advisors: Gareth Roberts and Meredith Tamminga). His interests are centred around sociophonetic variation and change, and the modelling of these phenomena using evolutionary biological theories. He is interested in Romance and Germanic languages and the languages of his native Singapore.
+**Wesley Mark Lincoln** is a third year Ph.D. student in Linguistics (co-advisors: Gareth Roberts and Meredith Tamminga). His interests are centred around sociophonetic variation and change, and the modelling of these phenomena using evolutionary biological theories. He is interested in Romance and Germanic languages and the languages of his native Singapore.
 
 <br style="clear:both" />
 
 <img src="/images/mikaela.jpg" alt="Headshot of a Black non-binary person with glasses and piercings standing behind a flower." style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
-**Mikaela Martin**  is a second year Ph.D. student in Linguistics (co-advisors: Florian Schwarz and Meredith Tamminga). Their research interests include sociolinguistics, psycholinguistics, and semantics. Broadly speaking, Mikaela is focused on the psycho-social underpinnings of language, and group membership. 
+**Mikaela Martin**  is a third year Ph.D. student in Linguistics (co-advisors: Florian Schwarz and Meredith Tamminga). Their research interests include sociolinguistics, psycholinguistics, and semantics. Broadly speaking, Mikaela is focused on the psycho-social underpinnings of language, and group membership. 
 
 <br style="clear:both" />
 
 <img src="/images/lexuan.jpg" alt="Headshot of an Asian man with glasses standing outside in a black coat and scarf." style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
-[**Le Xuan Chan**](https://sites.google.com/view/lexuanchan/) is a first year Ph.D. student in Linguistics (advisor: Jianjing Kuang). His research interests are multilingualism, phonetics, and sociolinguistics. He is particularly interested in how the interaction of multiple languages at the individual level contributes to variation in multilingual societies, and exploring these topics through the lens of acoustic and articulatory phonetics.
+[**Le Xuan Chan**](https://sites.google.com/view/lexuanchan/) is a second year Ph.D. student in Linguistics (advisor: Jianjing Kuang). His research interests are multilingualism, phonetics, and sociolinguistics. He is particularly interested in how the interaction of multiple languages at the individual level contributes to variation in multilingual societies, and exploring these topics through the lens of acoustic and articulatory phonetics.
 
 <br style="clear:both" />
 
 <img src="/images/jahnai.jpg" alt="Headshot of a Black woman with a ponytail wearing a black zip-up." style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
-**Jahnai Garner** is a first year Ph.D. student in Linguistics (advisor: Meredith Tamminga). Jahnai's research interests include psycholinguistics. More specifically, she is interested in how sociolinguistic variation interacts with language processing.
+**Jahnai Garner** is a second year Ph.D. student in Linguistics (advisor: Meredith Tamminga). Jahnai's research interests include psycholinguistics. More specifically, she is interested in how sociolinguistic variation interacts with language processing.
 
 <br style="clear:both" />
 
 
 ### Old friends
 
+- **Xin Gao** completed her Ph.D. in 2025.
 - [**Aini Li**](https://ainili-linguist.github.io/) completed her Ph.D. in 2024. She is now an Assistant Professor in Linguistics and Translation at City University of Hong Kong.
 - [**Gwen Hildebrandt**](https://www.penngwen.net/) completed her Ph.D. in 2024. 
 - **Sophie Faircloth** completed her MA in 2024 and is now a Ph.D. student in Linguistics at the University of Michigan.
