@@ -47,6 +47,8 @@ published: true
 <img src="/images/pohsuan.jpeg" alt="Headshot of an Asian man wearing a white button-up against a white background." style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
 [**Po-Hsuan Huang**](https://peh-suan.github.io/#home) is a first-year Ph.D. student in Linguistics (advisor: Meredith Tamminga). His research focuses on how structural and cognitive-functional factors condition linguistic variation and change. His recent studies include the investigation of how information density affects speech variation in the acoustic-articulatory domains and Mandarin classifier choices on the syntactic level.
 
+<br style="clear:both" />
+
 
 ### Old friends
 
