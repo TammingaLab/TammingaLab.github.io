@@ -8,6 +8,11 @@ title: Research
 
 ### Selected recent publications
 
+- Li & Tamminga. 2026. [Experimental priming of phonological variant identification](https://www.journal-labphon.org/article/id/24579/). *Laboratory Phonology* 17(1), 1–29.
+- Li & Tamminga. 2026. [Validating explicit rating tasks for measuring pronunciation biases: A case study of ING variation](https://link.springer.com/article/10.3758/s13428-026-02952-y). *Behavior Research
+Methods* 58, 66.
+- Wade & Tamminga. 2025. [Expectation-driven shifts in perception and production](https://pubs.aip.org/asa/jasa/article-abstract/158/4/3517/3369933/Expectation-driven-shifts-in-perception-and?redirectedFrom=fulltext). *Journal of the Acoustical Society of America* 158, 3517–3528.
+- Dinkin & Tamminga. 2025. [Searching for homophony avoidance in English coronal stop deletion](https://www.cambridge.org/core/journals/phonology/article/searching-for-homophony-avoidance-in-english-coronal-stop-deletion/900E6D34E7518E469564905CC389916B). *Phonology* 42, e2 1–10.
 - White, Embick & Tamminga. 2024. [Affix priming with variable ING in English: Implications for unique vs. dual representation](https://www.sciencedirect.com/science/article/pii/S0749596X2400038X). *Journal of Memory and Language* 138, 104535.
 - Lai & Tamminga. 2024. [Phonetics–phonology mapping in the generalization of perceptual learning](https://www.sciencedirect.com/science/article/abs/pii/S0095447024000019). *Journal of Phonetics* 103, 101-295.
 - Wade, Embick & Tamminga. 2023. [Dialect experience modulates cue reliance in sociolinguistic convergence](https://escholarship.org/uc/item/2h3118j2). *Glossa Psycholinguistics* 2(1):19, 1–30.
