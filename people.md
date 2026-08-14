@@ -53,7 +53,7 @@ published: true
 ### Old friends
 
 - **Xin Gao** completed her Ph.D. in 2025.
-- [**Andrea Beltrama**] was a MindCORE postdoctoral fellow and lab affiliate from 2019-2024. He is now an Assistant Professor in the Department of Linguistics and Cognitive Science at the University of Delaware.
+- [**Andrea Beltrama**](https://andreabeltrama.com/) was a MindCORE postdoctoral fellow and lab affiliate from 2019-2024. He is now an Assistant Professor in the Department of Linguistics and Cognitive Science at the University of Delaware.
 - [**Aini Li**](https://ainili-linguist.github.io/) completed her Ph.D. in 2024. She is now an Assistant Professor in Linguistics and Translation at City University of Hong Kong.
 - [**Gwen Hildebrandt**](https://www.penngwen.net/) completed her Ph.D. in 2024. 
 - [**Sophie Faircloth**](https://sites.google.com/umich.edu/sophiefaircloth) completed her MA in 2024 and is now a Ph.D. student in Linguistics at the University of Michigan.
