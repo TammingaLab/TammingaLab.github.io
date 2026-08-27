@@ -40,7 +40,7 @@ published: true
 <br style="clear:both" />
 
 <img src="/images/jahnai.jpg" alt="Headshot of a Black woman with a ponytail wearing a black zip-up." style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
-**Jahnai Garner** is a third year Ph.D. student in Linguistics (advisor: Meredith Tamminga). Jahnai's research interests include psycholinguistics. More specifically, she is interested in how sociolinguistic variation interacts with language processing.
+[**Jahnai Garner**](https://sites.google.com/view/jahnaigarner/home) is a third year Ph.D. student in Linguistics (advisor: Meredith Tamminga). Jahnai's research interests include psycholinguistics. More specifically, she is interested in how sociolinguistic variation interacts with language processing.
 
 <br style="clear:both" />
 
