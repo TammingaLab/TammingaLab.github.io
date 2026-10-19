@@ -25,7 +25,7 @@ published: true
 <br style="clear:both" />
 
 <img src="/images/mikaela.jpg" alt="Headshot of a Black non-binary person with glasses and piercings standing behind a flower." style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
-[**Mikaela Martin**](https://mbellemartin.com/)  is a fourth year Ph.D. student in Linguistics (co-advisors: Florian Schwarz and Meredith Tamminga). Their research interests include sociolinguistics, psycholinguistics, and semantics. Broadly speaking, Mikaela is focused on the psycho-social underpinnings of language, and group membership. 
+[**Mikaela Belle Martin**](https://mbellemartin.com/)  is a fourth year Ph.D. student in Linguistics (co-advisors: Florian Schwarz and Meredith Tamminga). Their research interests include sociolinguistics, psycholinguistics, and semantics. Broadly speaking, Mikaela is focused on the psycho-social underpinnings of language, and group membership. 
 
 <br style="clear:both" />
 
